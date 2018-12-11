@@ -1,2 +1,2 @@
 # hello-world
-We are just starting the Github 
+Hello World. Git here I come 
